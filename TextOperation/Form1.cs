@@ -175,7 +175,7 @@ namespace TextOperation
 
         private void addT()
         {
-            MessageBox.Show("GitHub再次修改");
+            MessageBox.Show("瞎搞一下看看能不能版本回退");
         }
     }
 }
