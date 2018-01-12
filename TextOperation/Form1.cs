@@ -177,5 +177,10 @@ namespace TextOperation
         {
             MessageBox.Show("瞎搞一下看看能不能版本回退");
         }
+
+        private void TestMaster()
+        {
+            MessageBox.Show("测试TestMaster分支");
+        }
     }
 }
