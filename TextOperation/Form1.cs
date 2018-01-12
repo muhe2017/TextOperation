@@ -181,6 +181,7 @@ namespace TextOperation
         private void TestGit()
         {
             MessageBox.Show("测试分支之间的联系");
+            MessageBox.Show("这是TestBranch分支");
         }
     }
 }
