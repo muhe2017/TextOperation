@@ -189,5 +189,10 @@ namespace TextOperation
             MessageBox.Show("测试分支之间的联系");
             MessageBox.Show("这是TestBranch分支");
         }
+
+        private void TestGitHub()
+        {
+            MessageBox.Show("这里会推送到远程仓库");
+        }
     }
 }
