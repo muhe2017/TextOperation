@@ -194,5 +194,10 @@ namespace TextOperation
         {
             MessageBox.Show("这里会推送到远程仓库");
         }
+
+        private void Test1()
+        {
+            MessageBox.Show("强制禁用Fast forward模式");
+        }
     }
 }
