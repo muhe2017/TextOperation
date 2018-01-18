@@ -199,5 +199,10 @@ namespace TextOperation
         {
             MessageBox.Show("强制禁用Fast forward模式");
         }
+
+        private void BUG()
+        {
+            MessageBox.Show("BUG分支");
+        }
     }
 }
