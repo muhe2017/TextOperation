@@ -183,5 +183,10 @@ namespace TextOperation
             MessageBox.Show("测试分支之间的联系");
             MessageBox.Show("这是TestBranch分支");
         }
+
+        private void Test1()
+        {
+            MessageBox.Show("强制禁用Fast forward模式");
+        }
     }
 }
