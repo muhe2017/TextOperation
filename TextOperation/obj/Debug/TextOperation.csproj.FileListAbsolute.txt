@@ -1,9 +1,0 @@
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\bin\Debug\TextOperation.exe.config
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\bin\Debug\TextOperation.exe
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\bin\Debug\TextOperation.pdb
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Debug\TextOperation.csprojResolveAssemblyReference.cache
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Debug\TextOperation.Form1.resources
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Debug\TextOperation.Properties.Resources.resources
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Debug\TextOperation.csproj.GenerateResource.Cache
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Debug\TextOperation.exe
-c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Debug\TextOperation.pdb
