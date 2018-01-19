@@ -6,6 +6,3 @@ c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperat
 c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Release\TextOperation.csproj.GenerateResource.Cache
 c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Release\TextOperation.exe
 c:\users\20171112\documents\visual studio 2013\Projects\TextOperation\TextOperation\obj\Release\TextOperation.pdb
-D:\llx\Demo\TextOperation\TextOperation\bin\Release\TextOperation.exe.config
-D:\llx\Demo\TextOperation\TextOperation\obj\Release\TextOperation.exe
-D:\llx\Demo\TextOperation\TextOperation\obj\Release\TextOperation.pdb
